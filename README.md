@@ -5,3 +5,4 @@ Please read the document `README-code.pdf` for details.
 
 Citation: Xia, L., Nan, B. and Li, Y. (2022+). De-biased lasso for stratified Cox models with application to the national kidney transplant data. 
 
+Please feel free to contact the authors should interested readers have any questions regarding the submitted article or the code.
